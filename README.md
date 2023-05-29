@@ -20,4 +20,9 @@ As the size of tuned model of hyperopt is more than 100 mb, the trained and tune
 
 ## Requirements
 Run pip install -r requirements.txt in terminal to install all the packages used
+
+# References
+
+- Sklearn, lightgbm, SHAP, PyCaret, optuna and other python packages.
+- Wikipedia on certain gaming players trait understanding
  
