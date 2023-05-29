@@ -3,6 +3,7 @@
 ● Given a dataset of Starcraft player performance data in ranked games. We want
 to develop a model to predict a player’s rank using the information provided in the
 dataset.
+
 ● Documenting decision making throughout the model building process (EDA, ETL,
 modeling, evaluation, etc).
 
