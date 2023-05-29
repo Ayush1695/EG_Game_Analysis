@@ -12,6 +12,9 @@ modeling, evaluation, etc).
 ## Code
 main.ipynb is the file which contains all the analysis
 
+## Archive Code
+main_with_feat_eng in the archive_folder can also be checked where model was built using some additional features using additional feature engineering steps. Although the model performance degraded in comparison to the simpler model used in main.ipynb
+
 ## Config
 config.ini file contains the path and model related parameters
 
